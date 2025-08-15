@@ -21,6 +21,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 10. [Dev/Prod Parity](#10-devprod-parity)
 11. [Logs](#11-logs)
 12. [Admin Processes](#12-admin-processes)
+13. [Reference](#13-reference)
 
 ---
 
@@ -191,3 +192,9 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 ### ประโยชน์
 - ง่ายต่อการจัดการและทดสอบ
 - ลดความซับซ้อนในการ deploy
+
+---
+
+## 13. Reference
+1. Adam Wiggins, *The Twelve-Factor App*, [https://12factor.net/](https://12factor.net/)
+2. Sakul Montha, *The Twelve-Factor App ในการทำ Microservices*, [Medium](https://iamgique.medium.com/the-twelve-factor-app-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-microservice-cfcd70fa106a)
