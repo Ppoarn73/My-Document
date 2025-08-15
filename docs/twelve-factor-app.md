@@ -39,6 +39,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 - ง่ายต่อการติดตามและควบคุมการเปลี่ยนแปลง
 
 <img src="images/codeBase.webp" alt="Code Base" style="width:60%; height:auto;">
+
 ---
 
 ## 2. Dependencies
@@ -83,6 +84,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 - ง่ายต่อการทดสอบและพัฒนา
 
 <img src="images/backingServices.webp" alt="Backing Services" style="width:60%; height:auto;">
+
 ---
 
 ## 5. Build, Release, Run
@@ -98,6 +100,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 - เพิ่มความมั่นใจในคุณภาพของแอปพลิเคชัน
 
 <img src="images/buildReleaseRun.webp" alt="Build Release and Run" style="width:60%; height:auto;">
+
 ---
 
 ## 6. Processes
@@ -141,6 +144,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 - ง่ายต่อการ scale แอปพลิเคชัน
 
 <img src="images/concurrency.webp" alt="Concurrency" style="width:60%; height:auto;">
+
 ---
 
 ## 9. Disposability
@@ -170,6 +174,7 @@ Twelve-Factor App เป็นหลักการออกแบบและ�
 - ง่ายต่อการทดสอบและพัฒนา
 
 <img src="images/devProdParity.webp" alt="Dev/Prod Parity" style="width:60%; height:auto;">
+
 ---
 
 ## 11. Logs
